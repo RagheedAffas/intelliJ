@@ -6,6 +6,7 @@ public class Main {
 
         System.out.println("testing github");
         System.out.println("testing java branch");
+        System.out.println("2nd java branch testing");
 
 
 	// write your code here
